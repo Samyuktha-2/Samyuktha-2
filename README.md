@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello, I'm Samyuktha S
 
-<!--
-**Samyuktha-2/Samyuktha-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Full-Stack Developer | Japanese Language Proficient (JLPT N5)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I build scalable, user-centric software solutions that bridge the gap between complex engineering and clean UI/UX. Focused on production-grade code and seamless integration.
+
+- **🧠 Core Focus:** **React.js** for the front, **ASP.NET Core** for the back, and **Deep Learning (CNNs)** for the "brains".
+- **🇯🇵 Global Communication:** Proficient in **Japanese (JLPT N5)**, facilitating collaboration in cross-cultural tech teams.
+
+---
+
+### 🛠️ My Tech Toolbox
+| Category | Stack |
+| :--- | :--- |
+| **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3, WPF (.NET) |
+| **Backend** | Java, C#, Python, SQL (MySQL), RESTful APIs |
+| **AI/ML** | CNN (Deep Learning), MTCNN, EfficientNetV2 |
+| **Workflows** | Agile/Scrum, CI/CD, Git, UI/UX Design |
+
+---
+
+### 📫 Connect With Me
+- **LinkedIn:** [linkedin.com/in/samyuktha-s2](https://linkedin.com/in/samyuktha-s2)
+- **Email:** [samyu026@gmail.com](mailto:samyu026@gmail.com)
+
+> *"Building skills. Creating opportunities. Transforming lives.💪🏻"*
