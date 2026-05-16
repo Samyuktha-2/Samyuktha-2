@@ -18,7 +18,7 @@ I build scalable, user-centric software solutions that bridge the gap between co
 | **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3, WPF (.NET) |
 | **Backend** | Java, C#, Python, SQL (MySQL), RESTful APIs |
 | **AI/ML** | CNN (Deep Learning), MTCNN, EfficientNetV2 |
-| **Workflows** | Agile/Scrum, CI/CD, Git, UI/UX Design |
+| **Workflows** | Git, UI/UX Design |
 
 ---
 
@@ -26,4 +26,10 @@ I build scalable, user-centric software solutions that bridge the gap between co
 - **LinkedIn:** [linkedin.com/in/samyuktha-s2](https://linkedin.com/in/samyuktha-s2)
 - **Email:** [samyu026@gmail.com](mailto:samyu026@gmail.com)
 
-> *"Building skills. Creating opportunities. Transforming lives.💪🏻"*
+> *"Building skills. Creating opportunities. Transforming lives.💪🏻"* 
+
+![Snake animation](https://github.com/Samyuktha-2/Samyuktha-2/blob/output/github-contribution-grid-snake.svg)
+
+<div align = "center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=Samyuktha-2&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
+</div>
