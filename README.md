@@ -28,8 +28,8 @@ I build scalable, user-centric software solutions that bridge the gap between co
 
 > *"Building skills. Creating opportunities. Transforming lives.💪🏻"* 
 
-![Snake animation](https://github.com/Samyuktha-2/Samyuktha-2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Samyuktha-2/Samyuktha-2/blob/main/dist/github-contribution-grid-snake.svg)
 
-<div align = "center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Samyuktha-2&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Samyuktha-2&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 </div>
