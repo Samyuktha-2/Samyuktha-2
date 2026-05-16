@@ -7,7 +7,7 @@
 
 I build scalable, user-centric software solutions that bridge the gap between complex engineering and clean UI/UX. Focused on production-grade code and seamless integration.
 
-- **🧠 Core Focus:** **React.js** for the front, **ASP.NET Core** for the back, and **Deep Learning (CNNs)** for the "brains".
+- **🧠 Core Focus:** WPF & Modern UI for the front, C#/.NET for the back, and Deep Learning (CNNs) for the brains.
 - **🇯🇵 Global Communication:** Proficient in **Japanese (JLPT N5)**, facilitating collaboration in cross-cultural tech teams.
 
 ---
